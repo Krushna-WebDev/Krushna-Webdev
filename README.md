@@ -1,16 +1,15 @@
-## Hi there 👋
+🚀 Hi, I'm Krushna!
+💻 MERN Stack Developer | React.js | Web Designer
 
-<!--
-**Krushna-WebDev/Krushna-Webdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build modern, responsive, and high-performance web applications using React.js, Node.js, Express.js, and MongoDB. Passionate about UI/UX, full-stack development, and solving real-world problems.
 
-Here are some ideas to get you started:
+📌 Tech Stack:
+🔹 Frontend: React.js, Tailwind CSS, JavaScript (ES6+)
+🔹 Backend: Node.js, Express.js, MongoDB
+🔹 Tools: Git & GitHub, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Featured Projects:
+🚗 Car Rental System – Full-stack MERN application
+📝 To-Do App – React + Node.js project
+🎨 Modern Agency Website – Web design project
+
