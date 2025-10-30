@@ -1,16 +1,18 @@
 ##  Hi, I'm Krushna  
-###  MERN Stack Developer | React.js Specialist | UI/UX Enthusiast
+###  MERN Stack Developer | React.js & NodeJs | Building Fast, Modern Web Apps
 
-I build fast, modern, and scalable web applications that not only work great — but look great too.  
-From responsive frontends to robust backends, I turn ideas into clean, functional code.  
- **Available for internships & freelance projects**
+I build modern, fast, and scalable web applications that feel smooth and look professional.
+I focus on turning ideas into clean, functional, and user-friendly products
+ **Helping teams and founders build modern web apps | Open to new projects.**
 
 ---
 
 ### 🛠 Tech Stack  
-- **Frontend:** React.js, Tailwind CSS, JavaScript (ES6+)  
-- **Backend:** Node.js, Express.js, MongoDB  
+- **Frontend:** React.js, TypeScript, JavaScript (ES6+), Tailwind CSS 
+- **Backend:** Node.js, Express.js, MongoDB
 - **Others:** REST APIs, Git & GitHub
+
+**Comfortable working with this stack to build full-scale apps, from landing pages to dashboards.**
 
 ---
 
