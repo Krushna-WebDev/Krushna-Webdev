@@ -3,6 +3,7 @@
 
 I build modern, fast, and scalable web applications that feel smooth and look professional.
 I focus on turning ideas into clean, functional, and user-friendly products
+ 
  **Helping teams and founders build modern web apps | Open to new projects.**
 
 ---
